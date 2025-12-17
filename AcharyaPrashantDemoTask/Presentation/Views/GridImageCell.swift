@@ -1,8 +1,7 @@
-//  GridImageCell.swift .swift
+//  GridImageCell.swift
 //  AcharyaPrashantDemoTask
 
 import SwiftUI
-//import UIKit
 
 struct GridImageCell: View {
 
