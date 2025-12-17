@@ -1,6 +1,5 @@
 //  MediaCoverageModels.swift
-//  RanjeetTask
-//  Created by Ranjeet Raushan on 14/12/25.
+//  AcharyaPrashantDemoTask
 
 struct MediaCoverageResponseItem: Decodable {
     struct Thumbnail: Decodable {

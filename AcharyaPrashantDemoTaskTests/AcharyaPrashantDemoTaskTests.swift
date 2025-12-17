@@ -1,9 +1,5 @@
-//
 //  AcharyaPrashantDemoTaskTests.swift
 //  AcharyaPrashantDemoTaskTests
-//
-//  Created by Ranjeet  Raushan on 17/12/25.
-//
 
 import XCTest
 @testable import AcharyaPrashantDemoTask

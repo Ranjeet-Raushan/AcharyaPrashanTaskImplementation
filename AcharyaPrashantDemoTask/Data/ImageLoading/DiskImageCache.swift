@@ -1,6 +1,5 @@
 //  DiskImageCache.swift
-//  RanjeetTask
-//  Created by Ranjeet Raushan on 14/12/25.
+//  AcharyaPrashantDemoTask
 
 import UIKit
 
